@@ -1,0 +1,10 @@
+#basic-modal-content {display:none;}
+#wpliketounlock {display:none;z-index: 0;}
+.popupTitle {background-color: #CCCCCC;padding:5px 5px 5px 5px; color: white;}
+.WPLikeCounter {position:absolute; top:-37px; right:16px; font-weight: bold; font-size: small; color:white; font-size:18px}
+.CounterAndClose {float:right;text-align: right}
+/* Overlay */
+#simplemodal-overlay {background-color:#000; cursor:wait;}
+
+/* Container */
+#simplemodal-container a.modalCloseImg {background:url(../img/x.png) no-repeat; width:16px; height:16px; display:inline; z-index:3200; position:absolute; top:-15px; right:-16px; cursor:pointer;}
