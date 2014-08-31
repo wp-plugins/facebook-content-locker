@@ -13,7 +13,7 @@ Lock your content of any page/post in your website, and makes it visible only if
 == Description ==
 
 Facebook Content Locker gives the ability to lock the content of any page or post in your website, and makes it visible only if the user clicks the Facebook Like button.
-The plugin is able to remember automatically who clicked the Like button & who didn’t, so don’t worry about that.
+The plugin is able to remember automatically who clicked the Like button & who didn't, so don't worry about that.
 
 You can apply the content locker on all the pages, all the posts, or only some selected pages, you can also create unlimited number of content lockers which are all independant.
 
@@ -21,7 +21,7 @@ You can apply the content locker on all the pages, all the posts, or only some s
 
 
 1. Upload the directory `facebook-content-locker` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+2. Activate the plugin through the `Plugins` menu in WordPress
 
 
 == Changelog ==
