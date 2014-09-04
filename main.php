@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Facebook Content Locker
  * @version 1.0
